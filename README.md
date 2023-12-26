@@ -1,5 +1,7 @@
 # test-auto-release-notes
 
+No changes, just changing the readme
+
 - change 1
 - change 2
 - change 3
