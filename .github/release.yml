@@ -4,6 +4,7 @@ changelog:
   exclude:
     labels:
       - documentation
+      - ignore
   categories:
     - title: Breaking Changes 🛠
       labels:
