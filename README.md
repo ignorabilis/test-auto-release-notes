@@ -8,4 +8,8 @@ No changes, just changing the readme
 - change 4
 - change 5
 - change 6, 7, 8
+
 - breaking change I
+
+- feat 1
+- feat 2
